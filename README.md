@@ -14,6 +14,7 @@ Open http://localhost:8080.
 ## Users
 
 | Username | Password | Role |
+|---|---|---|
 | `user1` | `pw` | USER |
 | `user2` | `pw` | USER |
 | `admin` | `pw` | ADMIN |
